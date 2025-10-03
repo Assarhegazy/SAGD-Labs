@@ -4,7 +4,7 @@
 
 _1.open git bash anywhere_
 
-_2.clone the repository using the following command--> git clone_ 
+_2.clone the repository using the following command-->_  git clone https://github.com/Assarhegazy/SAGD-Labs.git
 
 _3.open Vs code and pull from the main branch_
 
@@ -25,7 +25,10 @@ _4. write a commit message and commit the chnages_
 
 **in the case of uploading a lab that contains a unity project make sure
 that the following files are cleared before uploading the files:
+
 Library
+
 Logs
+
 Obj**
 
