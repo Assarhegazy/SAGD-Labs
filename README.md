@@ -2,24 +2,24 @@
 
 **To access them in the lab:**
 
-_1.open git bash anywhere
+_1.open git bash anywhere_
 
-2.clone the repository using the following command--> git clone 
+_2.clone the repository using the following command--> git clone_ 
 
-3.open Vs code and pull from the main branch_
+_3.open Vs code and pull from the main branch_
 
 
 
 **To add/push content onto the repository:**
 
-_1.access github using the web
+_1.access github using the web_
 
-2.click on upload file in the upper right corner
+_2.click on upload file in the upper right corner_
 
-3.drag and drop files
+_3.drag and drop files_
 
-4. write a commit message and commit the chnages
-_
+_4. write a commit message and commit the chnages_
+
 
 **NOTE**
 
